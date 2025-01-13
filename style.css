@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 .cal{
-    background-image: linear-gradient(rgba(225, 225, 225, 0.5), rgba(225, 225, 255, 0.5)), url(background.jpeg);
+    background-image: linear-gradient(rgba(225, 225, 225, 0.5), rgba(225, 225, 255, 0.5)), url(/Images/background.jpeg);
     size: 100%;
     height: 100vh;
     align-content: center;
